@@ -1,7 +1,7 @@
 Awesome Courses
 =====
 
-> List of awesome Computer Science courses scoured from university pages across the web
+> List of awesome Computer Science courses sourced from university pages across the web
 
 Table of Contents
 ---
